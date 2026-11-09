@@ -10,6 +10,7 @@ namespace PlayerDesktop
             Console.Write("Introdu calea fisierului: ");
             string cale = Console.ReadLine();
             Console.WriteLine($"Se reda: {cale}");
+            Console.WriteLine("Subtitrari: incarcate automat (.srt)");
         }
     }
 }
