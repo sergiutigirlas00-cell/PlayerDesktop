@@ -26,3 +26,5 @@ dotnet run
 
 ## 👤 Autor
 Țîgîrlaș Sergiu – grupa P-2522, CEITI
+
+Proiect verificat la ora de PAD.
